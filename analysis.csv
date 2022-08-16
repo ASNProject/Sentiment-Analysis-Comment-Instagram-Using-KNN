@@ -1,0 +1,40 @@
+Unnamed: 0,username,comment,comment_tokens,comment_tokens_fdist,comment_tokens_WSW,comment_normalized,comment_tokens_stemmed,sentiment
+0,kepek_mabur,ini baguss sihh keren pemandangan nya ya gak sih la wkwk,"['ini', 'baguss', 'sihh', 'keren', 'pemandangan', 'nya', 'ya', 'gak', 'sih', 'la', 'wkwk']",<FreqDist with 11 samples and 11 outcomes>,"['baguss', 'sihh', 'keren', 'pemandangan']","['bagus', 'sihh', 'keren', 'pemandangan']","['bagus', 'sihh', 'keren', 'pandang']",1
+1,primahermanto,ayoooo gasss,"['ayoooo', 'gasss']",<FreqDist with 2 samples and 2 outcomes>,"['ayoooo', 'gasss']","['ayoooo', 'gasss']","['ayoooo', 'gasss']",1
+2,happshapist,monggo sek kemarin tanya,"['monggo', 'sek', 'kemarin', 'tanya']",<FreqDist with 4 samples and 4 outcomes>,"['monggo', 'kemarin']","['monggo', 'kemarin']","['monggo', 'kemarin']",1
+3,yuliana_iin,kii lhoo,"['kii', 'lhoo']",<FreqDist with 2 samples and 2 outcomes>,"['kii', 'lhoo']","['kii', 'lhoo']","['kii', 'lhoo']",1
+4,afiq5922,resa,['resa'],<FreqDist with 1 samples and 1 outcomes>,['resa'],['resa'],['resa'],1
+5,kopijogjakarta,nama tmpt nya apa ini min,"['nama', 'tmpt', 'nya', 'apa', 'ini', 'min']",<FreqDist with 6 samples and 6 outcomes>,"['nama', 'tmpt']","['nama', 'tempat']","['nama', 'tempat']",1
+6,panduu_ak,ehem,['ehem'],<FreqDist with 1 samples and 1 outcomes>,['ehem'],['ehem'],['ehem'],1
+7,intanikarisa,zain,['zain'],<FreqDist with 1 samples and 1 outcomes>,['zain'],['zain'],['zain'],1
+8,ikahanilatifah,adminnya pernah kesana belom sih,"['adminnya', 'pernah', 'kesana', 'belom', 'sih']",<FreqDist with 5 samples and 5 outcomes>,"['adminnya', 'kesana', 'belom']","['adminnya', 'kesana', 'belom']","['adminnya', 'kesana', 'bom']",1
+9,mirandaaap_,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
+10,ragami.tv,siap merapat mas makasih info  nongkrong yg baru di tanjung harjo,"['siap', 'merapat', 'mas', 'makasih', 'info', 'nongkrong', 'yg', 'baru', 'di', 'tanjung', 'harjo']",<FreqDist with 11 samples and 11 outcomes>,"['merapat', 'makasih', 'info', 'nongkrong', 'tanjung', 'harjo']","['merapat', 'makasih', 'info', 'nongkrong', 'tanjung', 'harjo']","['rapat', 'makasih', 'info', 'nongkrong', 'tanjung', 'harjo']",1
+11,ajiestagram,udah lahhh,"['udah', 'lahhh']",<FreqDist with 2 samples and 2 outcomes>,[],[],[],0
+12,ingkarjanjikopi,syahdu poll,"['syahdu', 'poll']",<FreqDist with 2 samples and 2 outcomes>,"['syahdu', 'poll']","['syahdu', 'poll']","['syahdu', 'poll']",1
+13,shidqia.ais,sudah donggg,"['sudah', 'donggg']",<FreqDist with 2 samples and 2 outcomes>,['donggg'],['donggg'],['donggg'],1
+14,arnandafrw_,mau gaa pan kapan,"['mau', 'gaa', 'pan', 'kapan']",<FreqDist with 4 samples and 4 outcomes>,"['gaa', 'pan']","['gaa', 'pan']","['gaa', 'pan']",1
+15,iwent_123,blenda,['blenda'],<FreqDist with 1 samples and 1 outcomes>,['blenda'],['blenda'],['blenda'],1
+16,ami_marita,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
+17,anggi_tya,puncak saka tanjung harjo nanggulan,"['puncak', 'saka', 'tanjung', 'harjo', 'nanggulan']",<FreqDist with 5 samples and 5 outcomes>,"['puncak', 'saka', 'tanjung', 'harjo', 'nanggulan']","['puncak', 'saka', 'tanjung', 'harjo', 'nanggulan']","['puncak', 'saka', 'tanjung', 'harjo', 'nanggulan']",1
+18,muhamadsidiqf,mung duwur omah,"['mung', 'duwur', 'omah']",<FreqDist with 3 samples and 3 outcomes>,"['mung', 'duwur', 'omah']","['mung', 'duwur', 'omah']","['mung', 'duwur', 'omah']",1
+19,inunx_cute,puncak saka ya,"['puncak', 'saka', 'ya']",<FreqDist with 3 samples and 3 outcomes>,"['puncak', 'saka']","['puncak', 'saka']","['puncak', 'saka']",1
+20,feliahani_22,yk,['yk'],<FreqDist with 1 samples and 1 outcomes>,['yk'],['yk'],['yk'],1
+21,astari_vitta,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
+22,astari_vitta,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
+23,rusantipink,cuzz bsk goleki,"['cuzz', 'bsk', 'goleki']",<FreqDist with 3 samples and 3 outcomes>,"['cuzz', 'bsk', 'goleki']","['cuzz', 'besok', 'goleki']","['cuzz', 'besok', 'golek']",1
+24,yunitanita97,wahh,['wahh'],<FreqDist with 1 samples and 1 outcomes>,['wahh'],['wah'],['wah'],1
+25,mboke_nena,kuat ra kira ngonthel mpe sini apriyawan feriawan,"['kuat', 'ra', 'kira', 'ngonthel', 'mpe', 'sini', 'apriyawan', 'feriawan']",<FreqDist with 8 samples and 8 outcomes>,"['kuat', 'ngonthel', 'apriyawan', 'feriawan']","['kuat', 'ngonthel', 'apriyawan', 'feriawan']","['kuat', 'ngonthel', 'apriyawan', 'feriawan']",1
+26,dinaaamarlinaa_,putra mantep,"['putra', 'mantep']",<FreqDist with 2 samples and 2 outcomes>,"['putra', 'mantep']","['putra', 'mantep']","['putra', 'mantep']",1
+27,inunx_cute,ayok spedaan tkanke keneh te,"['ayok', 'spedaan', 'tkanke', 'keneh', 'te']",<FreqDist with 5 samples and 5 outcomes>,"['ayok', 'spedaan', 'tkanke', 'keneh']","['ayok', 'spedaan', 'tekan', 'keneh']","['ayok', 'spedaan', 'tekan', 'keneh']",1
+28,rinda.rosyida,ingin,['ingin'],<FreqDist with 1 samples and 1 outcomes>,[],[],[],0
+29,kedaiotentik,waaah harus dateng ini,"['waaah', 'harus', 'dateng', 'ini']",<FreqDist with 4 samples and 4 outcomes>,"['waaah', 'dateng']","['waaah', 'dateng']","['waaah', 'dateng']",1
+30,anitariyanti13,mb nit,"['mb', 'nit']",<FreqDist with 2 samples and 2 outcomes>,['nit'],['nit'],['nit'],1
+31,hanifah.indi14,cobain kuy adisusanta,"['cobain', 'kuy', 'adisusanta']",<FreqDist with 3 samples and 3 outcomes>,"['cobain', 'kuy', 'adisusanta']","['cobain', 'kuy', 'adisusanta']","['cobain', 'kuy', 'adisusanta']",1
+32,felisitasgabriella,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
+33,windanurumiyati,ikiii oii,"['ikiii', 'oii']",<FreqDist with 2 samples and 2 outcomes>,"['ikiii', 'oii']","['ikiii', 'oii']","['ikiii', 'oii']",1
+34,lavatourmerapiofficial,keren banget viewnya kak mari kak berpetualang seru di merapi bersama semoga sehat selalu ya kak,"['keren', 'banget', 'viewnya', 'kak', 'mari', 'kak', 'berpetualang', 'seru', 'di', 'merapi', 'bersama', 'semoga', 'sehat', 'selalu', 'ya', 'kak']",<FreqDist with 14 samples and 16 outcomes>,"['keren', 'banget', 'viewnya', 'mari', 'berpetualang', 'seru', 'merapi', 'semoga', 'sehat']","['keren', 'banget', 'viewnya', 'mari', 'berpetualang', 'seru', 'merapi', 'semoga', 'sehat']","['keren', 'banget', 'viewnya', 'mari', 'tualang', 'seru', 'rapi', 'moga', 'sehat']",1
+35,lhinapramudhita,abdulk,['abdulk'],<FreqDist with 1 samples and 1 outcomes>,['abdulk'],['abdulk'],['abdulk'],1
+36,setiariniisnawati,azkasetiawan kesini kuy,"['azkasetiawan', 'kesini', 'kuy']",<FreqDist with 3 samples and 3 outcomes>,"['azkasetiawan', 'kesini', 'kuy']","['azkasetiawan', 'kesini', 'kuy']","['azkasetiawan', 'kesini', 'kuy']",1
+37,adibharja,anyar mneh sblh ndi ki,"['anyar', 'mneh', 'sblh', 'ndi', 'ki']",<FreqDist with 5 samples and 5 outcomes>,"['anyar', 'mneh', 'sblh', 'ndi']","['anyar', 'mneh', 'sblh', 'ndi']","['anyar', 'mneh', 'sblh', 'ndi']",1
+38,facialgalvanicspajogjayogya,,[],<FreqDist with 0 samples and 0 outcomes>,[],[],[],0
